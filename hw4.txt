@@ -1,4 +1,21 @@
 switch(i)
 {
-   
+   case 0:
+      food = "曾麗珍";
+      break;
+    case 1:
+      food = "珍奶";
+      break;
+    case 2:
+      food = "榛果巧克力";
+      break;
+    case 3:
+      food = "巧克力鬆餅";
+      break;
+    case 4:
+      food = "炸雞";
+      break;
+    case 5:
+      food = "奶茶";
+      break;
 }
